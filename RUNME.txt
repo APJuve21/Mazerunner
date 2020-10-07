@@ -1,0 +1,2 @@
+g++ -std=c++11 maingame.cpp -o main
+./main | tee -a output.txt
